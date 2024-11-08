@@ -96,5 +96,6 @@ Let me know if you'd like any changes or further details!
 
 ### Output
 ![image](https://github.com/user-attachments/assets/19b9683c-eef0-40e4-8b33-feb3a4bbf325)
-![notebook_handwritten](https://github.com/user-attachments/assets/f0674308-9045-409e-a0a3-6d6dc561086d)
+![handwritten_text (1)](https://github.com/user-attachments/assets/2c0585f2-f78c-475e-9d21-e3587f741119)
+
 
